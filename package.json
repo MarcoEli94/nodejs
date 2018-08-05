@@ -1,0 +1,17 @@
+{
+    "name": "03-bases",
+    "version": "2.0.0",
+    "description": "Proyecto de Node",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marco Antonio Elizondo Gonzalez",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^12.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.3"
+    }
+}
